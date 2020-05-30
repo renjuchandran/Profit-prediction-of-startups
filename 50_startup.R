@@ -1,4 +1,4 @@
-start <- 50_Startups
+start <-Startups
 
 summary(start)
 library(plyr)
