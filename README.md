@@ -1,1 +1,2 @@
 # Profit-prediction-of-startups
+The main objective is to find a model to predict the profit, given the spend in R&D, administration, marketing spend, state of the headquarters of startup. Dataset  contains data about 50 startups, their spend in R&D, administration, marketing spend, state of the headquarters of startup and profit of each start up.Performed Multilinear Regression for profit prediction.
